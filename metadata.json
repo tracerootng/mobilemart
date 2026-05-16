@@ -1,0 +1,8 @@
+{
+  "name": "Mobile Mart & Accessories",
+  "description": "Premium tech store in Nigeria specializing in latest smartphones, laptops, and gadgets with futuristic design and trusted service.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
